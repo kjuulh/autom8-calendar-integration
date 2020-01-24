@@ -1,0 +1,6 @@
+autom8_calendar_integration.egg-info/
+dist/
+__pycache__
+.gitsecret/keys/random_seed
+!*.secret
+client_secret.json
